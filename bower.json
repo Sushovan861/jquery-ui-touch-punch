@@ -4,7 +4,7 @@
   "main": "jquery.ui.touch-punch.min.js",
   "ignore": [],
   "dependencies": {
-    "jquery": ">=1.6",
+   "jquery": "2.1.4",
     "jquery-ui": ">=1.8"
   }
 }
